@@ -9,3 +9,6 @@ def quote(request):
 
 def history(request):
     return render(request, "quote/history.html")
+
+def registerClient(request):
+    return render(request,"quote/registerClient.html")
