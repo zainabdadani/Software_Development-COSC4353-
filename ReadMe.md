@@ -1,7 +1,7 @@
 This software is created by:
 Austin Strain (1487409)
 Jaffar
-..
+Aakarshan Simkhada (1898617)
 ..
 
 It is built in Python with a Django framework.
