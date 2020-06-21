@@ -1,6 +1,6 @@
 This software is created by:
-Austin Strain (1487409)
-Jaffar
+Austin Strain (1487409),
+Jaffar,
 Aakarshan Simkhada (1898617)
 ..
 
