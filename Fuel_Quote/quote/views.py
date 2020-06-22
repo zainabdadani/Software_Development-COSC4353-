@@ -12,3 +12,6 @@ def history(request):
 
 def registerClient(request):
     return render(request,"quote/registerClient.html")
+
+def login(request):
+    return render(request, "quote/login.html")
