@@ -15,3 +15,9 @@ def registerClient(request):
 
 def login(request):
     return render(request, "quote/login.html")
+
+def profileManager(request):
+    return render(request, "quote/profileManager.html")
+
+def home(request):
+    return render(request, "quote/home.html")
